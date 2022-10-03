@@ -1,0 +1,15 @@
+current directory: /home/access/Documents/phase4/phase-4-active-model-serializer-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+/home/access/.rbenv/versions/2.7.0/bin/ruby -I /home/access/.rbenv/versions/2.7.0/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/access/Documents/phase4/phase-4-active-model-serializer-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20221003-20148-en4y1d sitelibdir\=./.gem.20221003-20148-en4y1d clean
+
+current directory: /home/access/Documents/phase4/phase-4-active-model-serializer-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20221003-20148-en4y1d sitelibdir\=./.gem.20221003-20148-en4y1d
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/access/Documents/phase4/phase-4-active-model-serializer-lab/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20221003-20148-en4y1d sitelibdir\=./.gem.20221003-20148-en4y1d install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20221003-20148-en4y1d
